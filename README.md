@@ -1,8 +1,8 @@
 ## LPProject
 [<img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-1/p160x160/14238317_555010558026261_5865719711564211147_n.jpg?oh=42434d01382ce0ae39cb1e2b23bf44a8&oe=58762EB3">](https://www.facebook.com/Acherry.LP)
 ---
-|##  My name is Arjaree Seenamnong.|                                    
---- 
+| ** My name is Arjaree Seenamnong.**|**ชื่อ : นางสาว อาจารีย์  สีนามโหน่ง**|                                
+|------------------------------------|:------------------------------:|
 ## My nickname is Loukpla.
 ---
 ## I'm 23 years old.
@@ -23,3 +23,9 @@ Youtube :
 <a href="https://www.youtube.com/watch?v=QyhrOruvT1c
 " target="_blank"><img src="https://i.ytimg.com/vi/QyhrOruvT1c/maxresdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |   
