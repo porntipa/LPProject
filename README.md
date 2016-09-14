@@ -13,7 +13,6 @@
 |I study at Rangsit University.  |เรียนอยู่ที่มหาวิทยาลัยรังสิต            |
 |Major is Computer Information system.|สาขาระบบสารสนเทศคอมพิวเตอร์   |
 |Branch is Business.             |คณะบริหารธุรกิจ                    |
-
 ---
 Facebook : [Acherry.LP](https://www.facebook.com/Acherry.LP) :kissing_heart:
 ---
