@@ -14,7 +14,8 @@
 |Major is Computer Information system.|สาขาระบบสารสนเทศคอมพิวเตอร์   |
 |Branch is Business.             |คณะบริหารธุรกิจ                    |
 
-Facebook : [Acherry.LP](https://www.facebook.com/Acherry.LP)
+---
+Facebook : [Acherry.LP](https://www.facebook.com/Acherry.LP) :kissing_heart:
 ---
 Youtube : 
 <a href="https://www.youtube.com/watch?v=QyhrOruvT1c
