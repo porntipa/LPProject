@@ -3,21 +3,16 @@
 ---
 |**ENG**                         |**TH**                          |
 |--------------------------------|:------------------------------:|
-|  My name is Arjaree Seenamnong.|ชื่อ : นางสาว อาจารีย์  สีนามโหน่ง    |                  
+| My name is Arjaree Seenamnong. |ชื่อ : นางสาว อาจารีย์  สีนามโหน่ง    |                  
 | My nickname is Loukpla.        |ชื่อเล่น : ลูกปลา                   | 
+| I'm 23 years old.              |อายุ 23 ปี                        |
+| My birthday is on 8 May 1993.  |วันเกิด : 8 พฤษภาคม พ.ศ.2536      |
+| I live in Pathumthani.         |อาศํยอยู่ในจังหวัดปทุมธานี             |
+|We have 4 person in my family.  |ครอบครัวมี 4 คน                    |
+|I study at Rangsit University.  |เรียนอยู่ที่มหาวิทยาลัยรังสิต            |
+|Major is Computer Information system.|สาขาระบบสารสนเทศคอมพิวเตอร์   |
+|Branch is Business.             |คณะบริหารธุรกิจ                    |
 
-## |I'm 23 years old.|
----
-## My birthday is on 8 May 1993.
----
-## I live in Pathumthani.
----
-## We have 4 person in my family.
----
-### I study at Rangsit University.
-### Major is Computer Information system.
-### Branch is Business.
----
  Facebook : [Acherry.LP](https://www.facebook.com/Acherry.LP)
 
 Youtube : 
@@ -25,8 +20,3 @@ Youtube :
 " target="_blank"><img src="https://i.ytimg.com/vi/QyhrOruvT1c/maxresdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-| Tables        | Are           | 
-| ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |   
