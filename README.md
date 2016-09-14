@@ -20,4 +20,7 @@
 ---
  Facebook : [Acherry.LP](https://www.facebook.com/Acherry.LP)
 
- Youtube :  [อ้าว-อะตอม](https://www.youtube.com/watch?v=QyhrOruvT1c)
+
+<a href="https://www.youtube.com/watch?v=QyhrOruvT1c
+" target="_blank"><img src="https://i.ytimg.com/vi/QyhrOruvT1c/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
